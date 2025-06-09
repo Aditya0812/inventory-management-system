@@ -43,7 +43,4 @@ A full-featured **Inventory Management System** built with **TypeScript** across
 - **SweetAlert2** for interactive popups
 - **React Router DOM** for routing
 
----
-
-## 📂 Folder Structure
 
